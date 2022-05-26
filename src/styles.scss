@@ -1,1 +1,37 @@
 /* You can add global styles to this file, and also import other style files */
+.main-div {
+    margin: auto;
+}
+.box-container1 {
+    height: 100px;
+    width: 1450px;
+    margin: 30px;
+    /* display: inline-block; */
+    text-align: center;
+    background-color: aqua;
+}
+.box-container2 {
+    height: 400px;
+    width: 430px;
+    margin: 30px;
+    display: inline-block;
+    text-align: center;
+    
+}
+.box-container3 {
+    height: 100px;
+    width: 1450px;
+    margin: 30px;
+    /* display: inline-block; */
+    text-align: center;
+    background-color: burlywood;
+}
+.pink {
+    background-color: lightpink;
+}
+.blue {
+    background-color: lightskyblue;
+}
+.yellow {
+    background-color: lightyellow;
+}
